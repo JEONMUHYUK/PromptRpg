@@ -1,0 +1,56 @@
+C:\Users\ich96\Algorithm[C#]\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.AssemblyReference.cache
+C:\Users\ich96\Algorithm[C#]\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\ich96\Algorithm[C#]\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.CoreCompileInputs.cache
+C:\Users\ich96\Algorithm[C#]\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe.config
+C:\Users\ich96\Algorithm[C#]\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe
+C:\Users\ich96\Algorithm[C#]\PromptRpg\PromptRpg\bin\Debug\PromptRpg.pdb
+C:\Users\ich96\Algorithm[C#]\PromptRpg\PromptRpg\obj\Debug\PromptRpg.exe
+C:\Users\ich96\Algorithm[C#]\PromptRpg\PromptRpg\obj\Debug\PromptRpg.pdb
+C:\Users\User\Desktop\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe.config
+C:\Users\User\Desktop\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe
+C:\Users\User\Desktop\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.pdb
+C:\Users\User\Desktop\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.exe
+C:\Users\User\Desktop\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.pdb
+C:\Users\User\Desktop\과제\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe.config
+C:\Users\User\Desktop\과제\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe
+C:\Users\User\Desktop\과제\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.pdb
+C:\Users\User\Desktop\과제\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\과제\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\과제\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\과제\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.exe
+C:\Users\User\Desktop\과제\PromptRpg-20220711T001531Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.pdb
+C:\Users\User\Desktop\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe.config
+C:\Users\User\Desktop\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe
+C:\Users\User\Desktop\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.pdb
+C:\Users\User\Desktop\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.exe
+C:\Users\User\Desktop\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.pdb
+C:\Users\ich96\OneDrive\바탕 화면\PromptRpg-20220714T055128Z-001-20220714T133448Z-001\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe.config
+C:\Users\ich96\OneDrive\바탕 화면\PromptRpg-20220714T055128Z-001-20220714T133448Z-001\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe
+C:\Users\ich96\OneDrive\바탕 화면\PromptRpg-20220714T055128Z-001-20220714T133448Z-001\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\bin\Debug\PromptRpg.pdb
+C:\Users\ich96\OneDrive\바탕 화면\PromptRpg-20220714T055128Z-001-20220714T133448Z-001\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.AssemblyReference.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptRpg-20220714T055128Z-001-20220714T133448Z-001\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptRpg-20220714T055128Z-001-20220714T133448Z-001\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.CoreCompileInputs.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptRpg-20220714T055128Z-001-20220714T133448Z-001\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.exe
+C:\Users\ich96\OneDrive\바탕 화면\PromptRpg-20220714T055128Z-001-20220714T133448Z-001\PromptRpg-20220714T055128Z-001\PromptRpg\PromptRpg\obj\Debug\PromptRpg.pdb
+C:\Users\User\Desktop\PromptRPG-20220714T234349Z-001\PromptRPG\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe.config
+C:\Users\User\Desktop\PromptRPG-20220714T234349Z-001\PromptRPG\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe
+C:\Users\User\Desktop\PromptRPG-20220714T234349Z-001\PromptRPG\PromptRpg\PromptRpg\bin\Debug\PromptRpg.pdb
+C:\Users\User\Desktop\PromptRPG-20220714T234349Z-001\PromptRPG\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PromptRPG-20220714T234349Z-001\PromptRPG\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PromptRPG-20220714T234349Z-001\PromptRPG\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PromptRPG-20220714T234349Z-001\PromptRPG\PromptRpg\PromptRpg\obj\Debug\PromptRpg.exe
+C:\Users\User\Desktop\PromptRPG-20220714T234349Z-001\PromptRPG\PromptRpg\PromptRpg\obj\Debug\PromptRpg.pdb
+C:\Users\User\Desktop\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe.config
+C:\Users\User\Desktop\PromptRpg\PromptRpg\bin\Debug\PromptRpg.exe
+C:\Users\User\Desktop\PromptRpg\PromptRpg\bin\Debug\PromptRpg.pdb
+C:\Users\User\Desktop\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PromptRpg\PromptRpg\obj\Debug\PromptRpg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PromptRpg\PromptRpg\obj\Debug\PromptRpg.exe
+C:\Users\User\Desktop\PromptRpg\PromptRpg\obj\Debug\PromptRpg.pdb
